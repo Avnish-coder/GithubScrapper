@@ -1,0 +1,95 @@
+[
+              {
+                            "topicUrl": "https://github.com/topics/nativescript",
+                            "projects": [
+                                          {
+                                                        "projectsUrl": "https://github.com/NativeScript/NativeScript",
+                                                        "issues": [
+                                                                      {
+                                                                                    "heading": "Misspelled \"platfrom\" causes \"Cannot read property 'toLowerCase' of undefined\" error",
+                                                                                    "urls": "https://github.com/NativeScript/NativeScript/issues/9733"
+                                                                      },
+                                                                      {
+                                                                                    "heading": "bug(8.2-alpha): Android frame transition throws exception",
+                                                                                    "urls": "https://github.com/NativeScript/NativeScript/issues/9732"
+                                                                      }
+                                                        ]
+                                          },
+                                          {
+                                                        "projectsUrl": "https://github.com/nativescript-vue/nativescript-vue",
+                                                        "issues": [
+                                                                      {
+                                                                                    "heading": "Computed style not working with variable css",
+                                                                                    "urls": "https://github.com/nativescript-vue/nativescript-vue/issues/916"
+                                                                      },
+                                                                      {
+                                                                                    "heading": "ActionBar backgroundColor not working on iOS 15 nativescript-vue",
+                                                                                    "urls": "https://github.com/nativescript-vue/nativescript-vue/issues/913"
+                                                                      }
+                                                        ]
+                                          }
+                            ]
+              },
+              {
+                            "topicUrl": "https://github.com/topics/windows",
+                            "projects": [
+                                          {
+                                                        "projectsUrl": "https://github.com/flutter/flutter",
+                                                        "issues": [
+                                                                      {
+                                                                                    "heading": "Error connecting to the service protocol",
+                                                                                    "urls": "https://github.com/flutter/flutter/issues/96346"
+                                                                      },
+                                                                      {
+                                                                                    "heading": "[TextField] Focus is lost on TextField when executing setState(), when parent is changed between states",
+                                                                                    "urls": "https://github.com/flutter/flutter/issues/96345"
+                                                                      }
+                                                        ]
+                                          },
+                                          {
+                                                        "projectsUrl": "https://github.com/jlevy/the-art-of-command-line",
+                                                        "issues": [
+                                                                      {
+                                                                                    "heading": "add",
+                                                                                    "urls": "https://github.com/jlevy/the-art-of-command-line/issues/753"
+                                                                      },
+                                                                      {
+                                                                                    "heading": "OGDphp/optiongreatday",
+                                                                                    "urls": "https://github.com/jlevy/the-art-of-command-line/issues/752"
+                                                                      }
+                                                        ]
+                                          }
+                            ]
+              },
+              {
+                            "topicUrl": "https://github.com/topics/sass",
+                            "projects": [
+                                          {
+                                                        "projectsUrl": "https://github.com/twbs/bootstrap",
+                                                        "issues": [
+                                                                      {
+                                                                                    "heading": "Bootstrap Sidebar example fails when reducing sidebar examples to a single one",
+                                                                                    "urls": "https://github.com/twbs/bootstrap/issues/35668"
+                                                                      },
+                                                                      {
+                                                                                    "heading": "Checkbox with data-bs-toggle: Inconsistent state on double-click or reload",
+                                                                                    "urls": "https://github.com/twbs/bootstrap/issues/35667"
+                                                                      }
+                                                        ]
+                                          },
+                                          {
+                                                        "projectsUrl": "https://github.com/bailicangdu/vue2-elm",
+                                                        "issues": [
+                                                                      {
+                                                                                    "heading": "城市列表获取失败了~",
+                                                                                    "urls": "https://github.com/bailicangdu/vue2-elm/issues/623"
+                                                                      },
+                                                                      {
+                                                                                    "heading": "请问接口又崩了吗？",
+                                                                                    "urls": "https://github.com/bailicangdu/vue2-elm/issues/622"
+                                                                      }
+                                                        ]
+                                          }
+                            ]
+              }
+]

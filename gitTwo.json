@@ -1,0 +1,68 @@
+[
+              {
+                            "PHP": "https://github.com/topics/php",
+                            "projectsUrls": [
+                                          {
+                                                        "laravel": "https://github.com/laravel/laravel",
+                                                        "issues": []
+                                          },
+                                          {
+                                                        "symfony": "https://github.com/symfony/symfony",
+                                                        "issues": [
+                                                                      {
+                                                                                    "heading": "make:migration keeps creating public db for postgreSQL",
+                                                                                    "urls": "https://github.com/symfony/symfony/issues/44952"
+                                                                      },
+                                                                      {
+                                                                                    "heading": "Pluralization of \"Podium\" is incorrect",
+                                                                                    "urls": "https://github.com/symfony/symfony/issues/44949"
+                                                                      }
+                                                        ]
+                                          }
+                            ]
+              },
+              {
+                            "Terminal": "https://github.com/topics/terminal",
+                            "projectsUrls": [
+                                          {
+                                                        "ohmyzsh": "https://github.com/ohmyzsh/ohmyzsh",
+                                                        "issues": [
+                                                                      {
+                                                                                    "heading": "Sentence in README.md can be improved",
+                                                                                    "urls": "https://github.com/ohmyzsh/ohmyzsh/issues/10573"
+                                                                      },
+                                                                      {
+                                                                                    "heading": "Screenshots of example prompts",
+                                                                                    "urls": "https://github.com/ohmyzsh/ohmyzsh/issues/10559"
+                                                                      }
+                                                        ]
+                                          },
+                                          {
+                                                        "terminal": "https://github.com/microsoft/terminal",
+                                                        "issues": [
+                                                                      {
+                                                                                    "heading": "Unable to duplicate Azure Cloud Shell Profile",
+                                                                                    "urls": "https://github.com/microsoft/terminal/issues/12120"
+                                                                      },
+                                                                      {
+                                                                                    "heading": "Pull Terminal Universal",
+                                                                                    "urls": "https://github.com/microsoft/terminal/issues/12118"
+                                                                      }
+                                                        ]
+                                          }
+                            ]
+              },
+              {
+                            "Bash": "https://github.com/topics/bash",
+                            "projectsUrls": [
+                                          {
+                                                        "the-art-of-command-line": "https://github.com/jlevy/the-art-of-command-line",
+                                                        "issues": []
+                                          },
+                                          {
+                                                        "nvm": "https://github.com/nvm-sh/nvm",
+                                                        "issues": []
+                                          }
+                            ]
+              }
+]
